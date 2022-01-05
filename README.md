@@ -12,6 +12,8 @@ Download the scripts for your platform of choice and then schedule them to run a
 
 These can also be run manually if desired.
 
+<hr>
+
 **Linux**
 
 Linux scripts are intended to be scheduled with cron.
@@ -19,6 +21,8 @@ Linux scripts are intended to be scheduled with cron.
     57 8 * * 1-5 /path/to/script/work-start.sh 
 
 The above would run the work-start.sh script at 0857hrs every Monday to Friday, for example.
+
+<hr>
 
 **Windows**
 

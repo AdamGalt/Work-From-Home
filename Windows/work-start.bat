@@ -4,6 +4,9 @@ rem --------------------------------------
 rem This automatically launches the applications you use for work.
 rem --------------------------------------
 
+rem Extend to secondary monitor
+call displayswitch.exe /extend
+
 rem If you need Caffiene https://www.zhornsoftware.co.uk/caffeine/#download
 rem Enter your location below or comment out.
 start "" "C:\Users\Adam\Apps\caffeine64.exe"
@@ -11,7 +14,7 @@ start "" "C:\Users\Adam\Apps\caffeine64.exe"
 rem --------------------------------------
 
 rem Replace this with your own music application or location or comment out.
-start "" "C:\Users\adam\AppData\Roaming\Spotify\Spotify.exe"
+rem start "" "C:\Users\adam\AppData\Roaming\Spotify\Spotify.exe"
 
 rem --------------------------------------
 

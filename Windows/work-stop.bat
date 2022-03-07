@@ -10,3 +10,4 @@ TASKKILL /F /IM outlook.exe
 TASKKILL /F /IM notepad++.exe
 TASKKILL /F /IM slack.exe
 TASKKILL /F /IM mstsc.exe
+call displayswitch.exe /internal
